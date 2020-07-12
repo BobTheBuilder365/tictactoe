@@ -20,6 +20,6 @@ public class TicTacToe_Model {
 //		return moveMade;
 //	}
 	
-	// Metho to check if someone has one
+	// Method to check if someone has one
 	
 }
